@@ -1,0 +1,11 @@
+{
+  "name": "ruoyi_empty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zmx2321/ruoyi_empty.git",
+  "author": "zmx2321 <zmx2321@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "main": "bash main.sh"
+  }
+}
